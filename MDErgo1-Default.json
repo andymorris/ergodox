@@ -122,6 +122,10 @@
                 "0": {
                     "key": "BACKTICK",
                     "label": "`"
+                },
+                "2": {
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -446,6 +450,10 @@
                 "0": {
                     "key": "FUN1",
                     "label": "\u01921"
+                },
+                "3": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             }
         },
@@ -979,6 +987,10 @@
                     "key": "M",
                     "label": "M"
                 },
+                "1": {
+                    "key": "LEFT",
+                    "label": "\u2190"
+                },
                 "2": {
                     "key": "P1",
                     "label": "P1"
@@ -997,8 +1009,8 @@
                     "label": ","
                 },
                 "1": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 },
                 "2": {
                     "key": "P2",
@@ -1016,6 +1028,10 @@
                 "0": {
                     "key": "PERIOD",
                     "label": "."
+                },
+                "1": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "2": {
                     "key": "P3",
@@ -1084,6 +1100,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -1125,12 +1145,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
-                },
-                "1": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -1142,12 +1158,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
-                },
-                "1": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -1159,12 +1171,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
-                },
-                "1": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "RBRACE",
+                    "label": "]"
                 },
                 "2": {
                     "key": "P.",
@@ -1197,8 +1205,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
                 }
             }
         }
